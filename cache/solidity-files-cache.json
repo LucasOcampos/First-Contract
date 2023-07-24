@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\lucas\\OneDrive\\Documents\\Solidity Projects\\First Contract\\contracts\\Inbox.sol": {
+      "lastModificationDate": 1690198982887,
+      "contentHash": "5b3fb2130eb7ac38bb9ffbb59c31999c",
+      "sourceName": "contracts/Inbox.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.19"
+      ],
+      "artifacts": [
+        "Inbox"
+      ]
+    }
+  }
+}
